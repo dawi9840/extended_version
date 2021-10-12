@@ -3,6 +3,14 @@ The resource is from [Pose Classification Options](https://developers.google.com
 
 Input pose video to images. And using classify images get pose landmarks which put it on record with csv file.
 
+# File description  
+
+**extract_images.py**- Input pose video to images. When extract images done, please attention images(pose class) folder position which is the next one file(csv create.py) to be use.   
+
+**csv_create.py**- using classify images get pose landmarks which put it on record with csv file.  
+
+
+
 ## Install  
 
 **Conda virtual env**  
