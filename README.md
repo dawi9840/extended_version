@@ -1,7 +1,7 @@
 # extended_version
 The resource is from [Pose Classification Options](https://developers.google.com/ml-kit/vision/pose-detection/classifying-poses) about prepossing to get csv file.
 
-Input pose video to images. And using classify images get pose landmarks which put it on record with csv file.
+Input pose video to images. And using classify images get pose landmarks which put it on record with csv file.  
 
 # File description  
 
