@@ -855,10 +855,10 @@ if __name__ == '__main__':
   bootstrap_images_in_folder = './resource/extract_images/10.12'
 
   # Output folders for bootstrapped images and CSVs.
-  bootstrap_images_out_folder = './imgs/poses_images_out_extended/10.12-2'
-  bootstrap_csvs_out_folder = './poses_csvs_out/10.12-2'
+  bootstrap_images_out_folder = './imgs/poses_images_out_extended/10.12'
+  bootstrap_csvs_out_folder = './poses_csvs_out/10.12'
 
-  export_csv = './poses_csvs_out_10.12_test.csv'
+  export_csv = './poses_csvs_out_10.12.csv'
   
   mp_drawing = mp.solutions.drawing_utils  # Drawing helpers.
   mp_pose = mp.solutions.pose              # Mediapipe Solutions.
